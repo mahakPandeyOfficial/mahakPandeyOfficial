@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahak__pandey" target="blank"><img src="https://img.shields.io/twitter/follow/mahak__pandey?logo=twitter&style=for-the-badge" alt="mahak__pandey" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript , Java with DSA**
+- 🌱 I’m currently learning **JavaScript, React , Java with DSA**
 
 - 💬 Ask me about **Java , Html , Css**
 
