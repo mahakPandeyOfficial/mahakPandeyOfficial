@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahak Pandey</h1>
 <h3 align="center">I am a Frontend Developer & engineering student and currently I am contributing to open source at Girlscript Summer of Code and Time Chain Summer of code.</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw0TUJDZ7wZVFfga1wHm367S&ust=1685642383447000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOD1wK6RoP8CFQAAAAAdAAAAABAu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmelinachenani&psig=AOvVaw3QW2Cnr8noJ1NiB3rYfVsF&ust=1715024206347000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiKhZeh94UDFQAAAAAdAAAAABAZ)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw0TUJDZ7wZVFfga1wHm367S&ust=1685642383447000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOD1wK6RoP8CFQAAAAAdAAAAABAu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmelinachenani&psig=AOvVaw3QW2Cnr8noJ1NiB3rYfVsF&ust=1715024206347000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiKhZeh94UDFQAAAAAdAAAAABAZ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahakpandeyofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mahakpandeyofficial" /> </p>
 
