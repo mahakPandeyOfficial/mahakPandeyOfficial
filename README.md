@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ----------------------------------------------------------------------------------------------------------------------------
-<h1 align="center">Hi 👋, I'm Mahak Pandey</h1>
-<h3 align="center">I am a Frontend Developer & engineering student and currently I am contributing to open source at Girlscript Summer of Code and Time Chain Summer of code.</h3>
+<h1 align="center">Helloo Techie 👋, I'm Mahak Pandey</h1>
+<h3 align="center">I am a Web Developer & an engineering student.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
